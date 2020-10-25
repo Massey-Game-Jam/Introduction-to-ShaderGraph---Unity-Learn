@@ -1,0 +1,35 @@
+{
+  "version": 3,
+  "backups": [
+    {
+      "name": "Introduction to ShaderGraph - Unity Learn",
+      "message": {
+        "embeds": [
+          {
+            "title": "Introduction to ShaderGraph - Unity Learn",
+            "description": "In this tutorial, you will learn to create a simple node-based Shader using Shader Graph and implement it in the Lightweight Render Pipeline.",
+            "color": 16776960,
+            "fields": [
+              {
+                "name": "Check out the link below to watch the video:",
+                "value": "https://learn.unity.com/tutorial/introduction-to-shader-graph?projectId=5d0a4b59edbc2a001fe52445&_ga=2.267453574.962287868.1603596640-880860179.1597417260"
+              }
+            ],
+            "author": {
+              "name": "Massey Game Jam Tutorials",
+              "icon_url": "https://cdn.discordapp.com/attachments/742778030220640318/744606293482012712/ezgif-7-ce9239e319a0.gif"
+            },
+            "footer": {
+              "text": "MasseyGameJam.Com",
+              "icon_url": "https://cdn.discordapp.com/attachments/742778030220640318/744606293482012712/ezgif-7-ce9239e319a0.gif"
+            },
+            "timestamp": "2020-10-25T03:32:00.000Z",
+            "image": {
+              "url": "https://connect-prd-cdn.unity.com/20190209/learn/images/445cfd42-7564-4538-adaa-7cebde6dc176_image__4_.png"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}
